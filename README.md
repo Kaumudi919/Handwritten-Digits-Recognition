@@ -20,3 +20,5 @@ Each image is a 28 by 28 pixel square(784 pixel total). The dataset contains 60,
 | KNN | 94% |
 | CNN | 98% |
 
+#### Conclusion:
+After successfully implemented Machine Learning Algorithm i got good accurecy score in KNeighbours classifier which is 94%. And using deep learning model which is CNN is 98%.
