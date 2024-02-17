@@ -12,3 +12,11 @@ The input feature contains images.<br>
 Output feature contains 10 classes (digits varying from 0 to 9).<br>
 Each image is a 28 by 28 pixel square(784 pixel total). The dataset contains 60,000 images for model training and 10,000 images for the evaluation of the model.<br>
 
+#### Model building:
+| Model | Accuracy |
+|-------|----------|
+| Logistic Regression| 84% |
+| SVM | 93% |
+| KNN | 94% |
+| CNN | 98% |
+
